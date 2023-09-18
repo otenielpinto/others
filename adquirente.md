@@ -49,3 +49,6 @@ for informado no campo tPag= 03 ou 04 deverá ser informado o grupo ou terá a r
 A respeito do campo CNPJ YA05 ele somente não é informado quando o campo tpIntegra for
 informado com valor 0, ou seja, quando o cartão não for integrado ao sistema de automação da
 empresa, mais detalhes do preenchimento deste campo acesse a rejeição 392.
+
+# Outra opção , solicitar ao cliente 
+DIRF - Declaração do Imposto de Renda Retido na Fonte
