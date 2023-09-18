@@ -1,5 +1,5 @@
 # Geral 
-## Principais Empresas Credenciadoras (Adquirentes) de Cartão de Crédito e seus CNPJs -Campo CNPJ YA05 | NFC-e
+## Principais Empresas Credenciadoras (Adquirentes) de Cartão de Crédito e seus CNPJs NFC-e
 
 ## Lista dos CNPJs 
 
