@@ -105,6 +105,7 @@
 | PIX CIELO                                                     | 01027058000191 |
 | PIX ITAU                                                      | 60701190000104 |
 | PIX SICOOB                                                    | 02038232000164 |
+| PIX BRADESCO                                                  | 60746948000112 |
 | POLICARD                                                      |                |
 | PREMMIA                                                       |                |
 | RAPPI                                                         | 26900161000125 |
